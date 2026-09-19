@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Sculpted Halo Bag", "category": "Accessories", "price": 149, "color": "Oat", "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85" },
+  { "id": 2, "name": "The Essential Blazer", "category": "New arrival", "price": 189, "color": "Ink", "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=85" },
+  { "id": 3, "name": "Quiet Form Vase", "category": "Home", "price": 78, "color": "Sand", "image": "https://images.unsplash.com/photo-1612196808214-b7e1d7a0d68b?auto=format&fit=crop&w=900&q=85" },
+  { "id": 4, "name": "Contour Leather Loafer", "category": "Footwear", "price": 132, "color": "Espresso", "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85" }
+]
